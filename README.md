@@ -18,3 +18,5 @@ git clone 项目到本地
   appendTsSuffixTo: [/\.vue$/],
 }
 使vue中的ts代码正常工作。
+
+4: 在vue中使用typescript编程可以提升开发效率和数据结构稳定性，本打算使用vue-class-component来进行基于类的组件开发，但发现这样做变得和angular很像，失去了vue中将数据，方法，watch等进行拆分的优势。结构不够清晰。所以决定只使用ts进行开发。
