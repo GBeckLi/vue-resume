@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@types/vue": "^2.0.0",
+    "@types/vue-router": "^2.0.0",
     "autoprefixer": "^8.6.4",
     "cross-env": "^5.2.0",
     "css-loader": "^0.28.11",
@@ -33,6 +34,7 @@
   "dependencies": {
     "es6-promise": "^4.2.4",
     "vue": "^2.5.16",
+    "vue-class-component": "^6.2.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   }
